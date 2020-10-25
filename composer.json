@@ -1,0 +1,18 @@
+{
+    "name": "amit/hello-world",
+    "description": "First Package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Amit Kesarwani",
+            "email": "akumar00029@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    },
+    "require": {}
+}
